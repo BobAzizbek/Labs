@@ -1,2 +1,2 @@
 **Labs**
-    - *Lab-6* added.
+- *Lab-6* added.
