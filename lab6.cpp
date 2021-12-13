@@ -4,11 +4,7 @@
 
 using namespace std;
 
-// alias run="clear && g++ main.cpp -o main.exe; ./main.exe"
-
-/*
-Lab-6 done
-*/
+// alias run="clear && g++ lab6.cpp -o lab6; ./lab"
 
 int main6_24()
 {
