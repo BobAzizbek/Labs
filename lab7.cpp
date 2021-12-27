@@ -49,7 +49,7 @@ int crossings()
     return count;
 }
 
-int main()
+int main16()
 {
     int t;
     cin >> t;
@@ -79,7 +79,7 @@ int IsPerfect(int n)
     return 0;
 }
 
-int main7_15()
+int main15()
 {
     int n;
     cin >> n;
@@ -103,7 +103,7 @@ int CountOnes(int n)
     return count;
 }
 
-int main7_14()
+int main14()
 {
     int n;
     cin >> n;
@@ -122,7 +122,7 @@ int IsCorrectFormat(int x)
     return 0;
 }
 
-int main7_13()
+int main13()
 {
     int x;
     cin >> x;
@@ -153,7 +153,7 @@ int readNumbers(int n)
     return count;
 }
 
-int main7_12()
+int main12()
 {
     int n;
     cin >> n;
@@ -180,7 +180,7 @@ int MagicNum(int n)
     return 0;
 }
 
-int main7_11()
+int main11()
 {
     int n, sum = 0;
     cin >> n;
@@ -195,7 +195,7 @@ int main7_11()
     return 0;
 }
 
-int main7_10()
+int main10()
 {
     int n;
     cin >> n;
@@ -226,7 +226,7 @@ void update(int n)
     max1 = n > max1 ? n : max1;
 }
 
-int main7_9()
+int main9()
 {
     while (true)
     {
@@ -249,7 +249,7 @@ int func(int x, int a, int b, int c)
     return a * pow(x, 2) + b * x + c;
 }
 
-int main7_8()
+int main8()
 {
     int x, a, b, c, e, f, g;
     cin >> x >> a >> b >> c >> e >> f >> g;
@@ -259,7 +259,7 @@ int main7_8()
     return 0;
 }
 
-int main7_7()
+int main7()
 {
     int x, a, b, c;
     cin >> x >> a >> b >> c;
@@ -274,7 +274,7 @@ int func(int x)
     return 2 * pow(x, 2) - 5 * x + 1;
 }
 
-int main7_6()
+int main6()
 {
     int n;
     cin >> n;
@@ -296,7 +296,7 @@ void print_triangle(int n)
     }
 }
 
-int main7_5()
+int main5()
 {
     while (true)
     {
@@ -336,7 +336,7 @@ void print_row2(int n)
     }
 }
 
-int main7_4()
+int main4()
 {
     int n;
     cin >> n;
@@ -353,7 +353,7 @@ int sum(int n)
     return n * (n + 1) / 2;
 }
 
-int main7_3()
+int main3()
 {
     int n, s = 0;
     cin >> n;
@@ -368,7 +368,7 @@ int main7_3()
     return 0;
 }
 
-int main7_2()
+int main2()
 {
     int a, b;
     cin >> a >> b;
@@ -383,7 +383,7 @@ int add(int x, int y)
     return x + y;
 }
 
-int main7_1()
+int main1()
 {
     int n, sum = 0;
     cin >> n;

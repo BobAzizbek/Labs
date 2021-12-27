@@ -6,7 +6,7 @@ using namespace std;
 
 // alias run="clear && g++ lab5.cpp -o lab5; ./lab5"
 
-int main5_21()
+int main21()
 {
     int n;
     cin >> n;
@@ -16,7 +16,7 @@ int main5_21()
     return 0;
 }
 
-int main5_20()
+int main20()
 {
     char ch;
     cin >> ch;
@@ -33,7 +33,7 @@ int main5_20()
     return 0;
 }
 
-int main5_19()
+int main19()
 {
     int n;
     cin >> n;
@@ -43,7 +43,7 @@ int main5_19()
     return 0;
 }
 
-int main5_18()
+int main18()
 {
     int n;
     cin >> n;
@@ -72,7 +72,7 @@ int main5_18()
     return 0;
 }
 
-int main5_17()
+int main17()
 {
     int hour, minute;
     cin >> hour >> minute;
@@ -89,7 +89,7 @@ int main5_17()
     return 0;
 }
 
-int main5_16()
+int main16()
 {
     int num;
     cin >> num;
@@ -136,7 +136,7 @@ int main5_16()
     return 0;
 }
 
-int main5_15()
+int main15()
 {
     char ch;
     cin >> ch;
@@ -153,7 +153,7 @@ int main5_15()
     return 0;
 }
 
-int main5_14()
+int main14()
 {
     int a, b, c;
 
@@ -171,7 +171,7 @@ int main5_14()
     return 0;
 }
 
-int main5_13()
+int main13()
 {
     int n, m;
     cin >> n >> m;
@@ -188,7 +188,7 @@ int main5_13()
     return 0;
 }
 
-int main5_11()
+int main11()
 {
     int choise, pay;
     cin >> choise >> pay;
@@ -214,7 +214,7 @@ int main5_11()
     return 0;
 }
 
-int main5_10()
+int main10()
 {
     int a, b;
     char ch;
@@ -232,7 +232,7 @@ int main5_10()
     return 0;
 }
 
-int main5_9()
+int main9()
 {
     int a, b, c;
     cin >> a >> b >> c;
@@ -271,7 +271,7 @@ int main5_9()
     return 0;
 }
 
-int main5_8()
+int main8()
 {
     char ch;
     cin >> ch;
@@ -292,7 +292,7 @@ int main5_8()
     return 0;
 }
 
-int main5_7()
+int main7()
 {
     int n;
     cin >> n;
@@ -320,7 +320,7 @@ int main5_7()
     return 0;
 }
 
-int main5_6()
+int main6()
 {
     int n;
     cin >> n;
@@ -337,7 +337,7 @@ int main5_6()
     return 0;
 }
 
-int main5_5()
+int main5()
 {
     int n;
     cin >> n;
@@ -370,7 +370,7 @@ int main5_5()
     return 0;
 }
 
-int main5_4()
+int main4()
 {
     int a, b, c;
     cin >> a >> b >> c;
@@ -406,7 +406,7 @@ int main5_4()
     return 0;
 }
 
-int main5_3()
+int main3()
 {
     int n, m;
     cin >> n >> m;
@@ -416,7 +416,7 @@ int main5_3()
     return 0;
 }
 
-int main5_2()
+int main2()
 {
     int n, m;
     cin >> n >> m;
@@ -437,7 +437,7 @@ int main5_2()
     return 0;
 }
 
-int main5_1()
+int main1()
 {
     int n;
     cin >> n;
@@ -453,7 +453,7 @@ int main5_1()
     return 0;
 }
 
-int main5_12()
+int main12()
 {
     int num;
     cin >> num;
@@ -461,13 +461,13 @@ int main5_12()
     switch (num)
     {
     case 1:
-        main5_4();
+        main4();
         break;
     case 2:
-        main5_9();
+        main9();
         break;
     case 3:
-        main5_10();
+        main10();
         break;
     default:
         break;

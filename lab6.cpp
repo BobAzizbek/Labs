@@ -6,7 +6,7 @@ using namespace std;
 
 // alias run="clear && g++ lab6.cpp -o lab6; ./lab"
 
-int main6_24()
+int main24()
 {
     int n;
     cin >> n;
@@ -23,7 +23,7 @@ int main6_24()
     return 0;
 }
 
-int main6_23()
+int main23()
 {
     int n, count = 0;
     cin >> n;
@@ -69,7 +69,7 @@ bool Arm(int n)
     return false;
 }
 
-int main6_22()
+int main22()
 {
     int n;
     cin >> n;
@@ -113,7 +113,7 @@ int reverseDigits(int n)
     return reverse;
 }
 
-int main6_21()
+int main21()
 {
     int n, count = 0;
     cin >> n;
@@ -141,7 +141,7 @@ int getNewN(int n)
     return newN;
 }
 
-int main6_20()
+int main20()
 {
     int n, count = 0;
     cin >> n;
@@ -160,7 +160,7 @@ int main6_20()
     return 0;
 }
 
-int main6_19()
+int main19()
 {
     int f1 = 0, f2 = 1, f3 = f1 + f2;
 
@@ -197,7 +197,7 @@ int Collatz(long n)
     return count;
 }
 
-int main6_18()
+int main18()
 {
     long n, m;
     cin >> n >> m;
@@ -214,7 +214,7 @@ int main6_18()
     return 0;
 }
 
-int main6_17()
+int main17()
 {
     int t, direction = 0, x = 0, y = 0;
     cin >> t;
@@ -248,7 +248,7 @@ int main6_17()
     return 0;
 }
 
-int main6_16()
+int main16()
 {
     int n;
     cin >> n;
@@ -278,7 +278,7 @@ int main6_16()
     return 0;
 }
 
-int main6_15()
+int main15()
 {
     int n;
     cin >> n;
@@ -307,7 +307,7 @@ int main6_15()
     return 0;
 }
 
-int main6_14()
+int main14()
 {
     int t, sum = 0;
     cin >> t;
@@ -325,7 +325,7 @@ int main6_14()
     return 0;
 }
 
-int main6_13()
+int main13()
 {
     int sum = 0, count = 0;
     float average = 0;
@@ -348,7 +348,7 @@ int main6_13()
     return 0;
 }
 
-int main6_12()
+int main12()
 {
     int n, sum = 0;
     cin >> n;
@@ -367,7 +367,7 @@ int main6_12()
     return 0;
 }
 
-int main6_11()
+int main11()
 {
     for (int i = 1; i <= 6; i++)
     {
@@ -386,7 +386,7 @@ int main6_11()
     return 0;
 }
 
-int main6_10()
+int main10()
 {
     int n, sum = 0;
     cin >> n;
@@ -410,7 +410,7 @@ int main6_10()
     return 0;
 }
 
-int main6_9()
+int main9()
 {
     int n, count = 1;
     cin >> n;
@@ -433,7 +433,7 @@ int main6_9()
     return 0;
 }
 
-int main6_8()
+int main8()
 {
     int n, count = 0;
     cin >> n;
@@ -456,7 +456,7 @@ int main6_8()
     return 0;
 }
 
-int main6_7()
+int main7()
 {
     for (int i = 1; i <= 10; i++)
     {
@@ -473,7 +473,7 @@ int main6_7()
     return 0;
 }
 
-int main6_6()
+int main6()
 {
     int n;
     cin >> n;
@@ -509,7 +509,7 @@ int main6_6()
     return 0;
 }
 
-int main6_5()
+int main5()
 {
     int n, m;
     cin >> n >> m;
@@ -538,7 +538,7 @@ int main6_5()
     return 0;
 }
 
-int main6_4()
+int main4()
 {
     for (int i = 2; i <= 10; i++)
     {
@@ -558,7 +558,7 @@ int main6_4()
     return 0;
 }
 
-int main6_3()
+int main3()
 {
     int sum = 0;
 
@@ -577,7 +577,7 @@ int main6_3()
     return 0;
 }
 
-int main6_2()
+int main2()
 {
     int n;
     cin >> n;
@@ -605,7 +605,7 @@ int main6_2()
     return 0;
 }
 
-int main6_1()
+int main1()
 {
     int n, i = 1;
     cin >> n;
